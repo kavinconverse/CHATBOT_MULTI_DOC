@@ -1,0 +1,10 @@
+streamlit
+langchain
+replicate
+faiss-cpu
+pypdf
+accelerate
+sentence_transformers
+huggingface-hub
+python-dotenv
+streamlit_chat
